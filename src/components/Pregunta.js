@@ -59,7 +59,6 @@ const Pregunta = ({guardarPresupuesto, guardarRestante, actualizarPregunta}) => 
                 type="submit"
                 className='button-primary u-full-width'
                 value='Definir presupuesto'
-                onSubmit=''
             />
 
         </form>
